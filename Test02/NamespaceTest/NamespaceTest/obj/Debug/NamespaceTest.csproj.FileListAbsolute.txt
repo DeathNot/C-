@@ -1,6 +1,0 @@
-F:\Project\Program-Study\Test02\NamespaceTest\NamespaceTest\bin\Debug\NamespaceTest.exe.config
-F:\Project\Program-Study\Test02\NamespaceTest\NamespaceTest\obj\Debug\NamespaceTest.csprojResolveAssemblyReference.cache
-F:\Project\Program-Study\Test02\NamespaceTest\NamespaceTest\bin\Debug\NamespaceTest.exe
-F:\Project\Program-Study\Test02\NamespaceTest\NamespaceTest\bin\Debug\NamespaceTest.pdb
-F:\Project\Program-Study\Test02\NamespaceTest\NamespaceTest\obj\Debug\NamespaceTest.exe
-F:\Project\Program-Study\Test02\NamespaceTest\NamespaceTest\obj\Debug\NamespaceTest.pdb
